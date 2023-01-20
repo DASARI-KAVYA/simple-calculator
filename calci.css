@@ -1,0 +1,33 @@
+.a{
+width: 60px;
+height: 60px;
+margin-right: -4px;
+background: white;
+border: solid;
+border-width: 1px;
+}
+.b{
+width: 68px;
+height: 60px;
+background: #d18b45;
+border: solid;
+border-width: 1px;
+}
+.textbox{
+height: 60px;
+width: 240px;
+color: white;
+font-size: 20px;
+background: #5cbdbb;
+border-color: black;
+}
+.bclear{
+height: 50px;
+width: 248px;
+border: solid;
+border-width: 1px;
+background: #5cbdbb;
+}
+.mainbody{
+text-align: center;
+}
